@@ -1,2 +1,2 @@
 # 웹개발 종합반 수업
-## myMovies
+## myMovies 부트스트랩 연습
